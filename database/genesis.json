@@ -1,0 +1,7 @@
+{
+  "genesis_time": "2022-05-17T00:00:00.000000000Z",
+  "chain_id": "the-blockchain-bar-ledger",
+  "balances": {
+    "narhzih": 1000000
+  }
+}
